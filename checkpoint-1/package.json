@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
-    "react-scripts": "3.1.2"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,6 +34,6 @@
     "@storybook/addon-actions": "^5.2.1",
     "@storybook/addon-links": "^5.2.1",
     "@storybook/addons": "^5.2.1",
-    "@storybook/react": "^5.2.1"
+    "@storybook/react": "^10.1.11"
   }
 }
